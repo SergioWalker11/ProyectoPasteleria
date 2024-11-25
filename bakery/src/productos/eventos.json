@@ -1,0 +1,62 @@
+[
+    {
+    "id": 15,
+    "nombre": "Pastel de Bodas Elegante",
+    "descripcion": "Majestuoso pastel de cuatro pisos perfecto para bodas, elaborado con bizcocho de vainilla y almendra. Cada piso está relleno de mousse de champagne y fresas. Decorado con fondant blanco perlado y flores de azúcar hechas a mano.",
+    "precio": 350,
+    "sabor": "Vainilla y Almendra",
+    "descuento": 0,
+    "imagen": "./../../public/imagenes/eventos/evento1.jpg",
+    "calificacion": 4.8
+    },
+    {
+    "id": 16,
+    "nombre": "Pastel de Quinceañera",
+    "descripcion": "Espectacular pastel de tres pisos en rosa y oro, con bizcocho de vainilla marble. Relleno de crema de fresas y chocolate blanco. Decorado con fondant, mariposas de azúcar y detalles en oro comestible.",
+    "precio": 280,
+    "sabor": "Marmoleado",
+    "descuento": 10,
+    "imagen": "./../../public/imagenes/eventos/evento2.webp",
+    "calificacion": 4.5
+    },
+    {
+    "id": 17,
+    "nombre": "Pastel de Graduación",
+    "descripcion": "Elegante pastel de dos pisos diseñado especialmente para graduaciones. Bizcocho de chocolate negro con relleno de mousse de chocolate. Decorado con fondant y detalles personalizados según la universidad o escuela.",
+    "precio": 200,
+    "sabor": "Chocolate",
+    "descuento": 15,
+    "imagen": "./../../public/imagenes/eventos/evento3.jpg",
+    "calificacion": 4.2
+    },
+    {
+    "id": 18,
+    "nombre": "Pastel de Aniversario Dorado",
+    "descripcion": "Lujoso pastel de dos pisos para celebrar aniversarios especiales. Elaborado con bizcocho de champagne y por manos maestras, relleno de frutos rojos y crema de vainilla. Decorado con fondant blanco y detalles en oro comestible.",
+    "precio": 180,
+    "sabor": "Champagne",
+    "descuento": 0,
+    "imagen": "./../../public/imagenes/eventos/evento4.jpg",
+    "calificacion": 4.6
+    },
+    {
+    "id": 19,
+    "nombre": "Pastel Baby Shower",
+    "descripcion": "Tierno pastel personalizable para baby shower, disponible en rosa o azul. Bizcocho suave de vainilla con relleno de crema de mantequilla. Decorado con fondant y motivos de bebé hechos a mano.",
+    "precio": 150,
+    "sabor": "Vainilla",
+    "descuento": 5,
+    "imagen": "./../../public/imagenes/eventos/evento5.jpg",
+    "calificacion": 4.3
+    },
+    {
+    "id": 20,
+    "nombre": "Pastel Corporativo",
+    "descripcion": "Pastel profesional para eventos empresariales. Puede personalizarse con el logo de la empresa. Bizcocho de vainilla o chocolate con relleno a elección. Decorado con fondant y detalles corporativos.",
+    "precio": 220,
+    "sabor": "Personalizable",
+    "descuento": 20,
+    "imagen": "./../../public/imagenes/eventos/evento6.jpg",
+    "calificacion": 4.0
+    }
+    ]

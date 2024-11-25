@@ -1,0 +1,144 @@
+/* Contenedor principal */
+.container {
+    display: flex;
+    min-height: 100vh;
+    width: 100%;
+    background-color: #f9f9fb;
+  }
+  
+  /* Menú fijo */
+  .asideMenu {
+    position: fixed;
+    top: 120px;
+    left: 20px;
+    width: 300px;
+    background-color: #ffedf0;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Menú estilos */
+  .menuTitle {
+    font-size: 1.5rem;
+    color: #ff6f91;
+    margin-bottom: 20px;
+  }
+  .menuList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .menuItem {
+    margin-bottom: 15px;
+  }
+  .menuLink {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 10px;
+    color: #ff6f91;
+    transition: background-color 0.3s ease;
+    border-radius: 10px;
+  }
+  .menuLink:hover {
+    background-color: #ff6f91;
+    color: white;
+  }
+  
+  /* Contenido principal */
+  .mainContent {
+    margin-left: 340px;
+    padding: 40px;
+  }
+  
+  /* Secciones */
+  .section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  .sectionTitle {
+    color: #ff6f91;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+  }
+  
+  /* Contenedor de tarjetas */
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+/* Tarjeta individual */
+.card {
+  width: calc(33% - 20px);
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding: 20px;
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+
+.cardImage {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.cardTitle {
+  font-size: 1.2rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.cardDescription {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.cardPrice {
+  font-size: 1.1rem;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+.originalPrice {
+  text-decoration: line-through;
+  color: #d9534f;
+  margin-right: 5px;
+}
+
+.cardSabor {
+  font-size: 1rem;
+  color: #888;
+  margin-bottom: 15px;
+}
+
+.cardButton {
+  background-color: #ff6f91;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.cardButton:hover {
+  background-color: #ff3d68;
+}
+.cardTipo {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 15px;
+}

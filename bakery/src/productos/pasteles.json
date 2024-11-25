@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pastel de Chocolate",
+    "descripcion": "Delicioso pastel de chocolate, perfecto para cualquier ocasión. Húmedo, esponjoso y con un intenso sabor a chocolate que te encantará. Elaborado con ingredientes de primera calidad. ¡No te quedes sin probarlo!",
+    "precio": 20,
+    "sabor": "Chocolate",
+    "descuento": 0,
+    "imagen": "./../../public/imagenes/pasteles/pastel_chocolate.jpg",
+    "calificacion": 4.8
+  },
+  {
+    "id": 2,
+    "nombre": "Pastel de Vainilla",
+    "descripcion": "Exquisito pastel de vainilla, ideal para celebrar cualquier momento especial. Suave, esponjoso y con un delicado sabor a vainilla que te conquistará. ¡ disfruta de su inigualable sabor!",
+    "precio": 18,
+    "sabor": "Vainilla",
+    "descuento": 10,
+    "imagen": "./../../public/imagenes/pasteles/pastel_vainilla.jpg",
+    "calificacion": 4.5
+  },
+  {
+    "id": 3,
+    "nombre": "Pastel de Fresa",
+    "descripcion": "Suculento pastel de fresa, una tentación irresistible para tu paladar. Bizcocho abrazado por una suave crema y decorado con fresas frescas.Un postre perfecto para disfrutar en cualquier momento del día.",
+    "precio": 22,
+    "sabor": "Fresa",
+    "descuento": 0,
+    "imagen": "./../../public/imagenes/pasteles/pastel_fresa.jpg",
+    "calificacion": 4.7
+  },
+  {
+    "id": 4,
+    "nombre": "Pastel de Zanahoria",
+    "descripcion": "Clásico pastel de zanahoria con un toque especiado,  repleto de nueces y pasas. Su textura húmeda y especiada te encantará. ¡Perfecto para acompañar con un café!",
+    "precio": 25,
+    "sabor": "Zanahoria",
+    "descuento": 5,
+    "imagen": "./../../public/imagenes/pasteles/pastel_zanahoria.jpg",
+    "calificacion": 4.6
+  },
+  {
+    "id": 5,
+    "nombre": "Pastel de limón",
+    "descripcion": "Refrescante pastel de limón con un intenso sabor cítrico. Suave bizcocho con un glaseado de limón que te hará agua la boca. ¡Perfecto para los amantes de los sabores ácidos!",
+    "precio": 59,
+    "sabor": "Limon",
+    "descuento": 5,
+    "imagen": "./../../public/imagenes/pasteles/pastel_limon.jpg",
+    "calificacion": 4.3
+  },
+  {
+    "id": 6,
+    "nombre": "Pastel de leche",
+    "descripcion": "Indulgente pastel de tres leches bañado en una mezcla de leche evaporada, leche condensada y leche entera. Una textura increíble y un sabor dulce que te conquistará",
+    "precio": 59,
+    "sabor": "Limon",
+    "descuento": 5,
+    "imagen": "./../../public/imagenes/pasteles/pastel_leche.jpg",
+    "calificacion": 4.9
+  },
+  {
+    "id": 7,
+    "nombre": "Pastel Selva Negra",
+    "descripcion": "Un clásico alemán que te encantará. Capas de bizcocho de chocolate,  crema chantilly y cerezas frescas se combinan en este pastel elegante e irresistible. ¡Un postre para los amantes del chocolate y la fruta!",
+    "precio": 59,
+    "sabor": "Chocolate",
+    "descuento": 5,
+    "imagen": "./../../public/imagenes/pasteles/pastel_selvanegra.webp",
+    "calificacion": 4.9
+  },
+  {
+    "id": 8,
+    "nombre": "Pastel de plátano y nueces",
+    "descripcion": " Exótico pastel de plátano con nueces crujientes.  Un bizcocho húmedo con un sabor intenso a plátano y un toque crocante de nueces. ¡Una combinación que te sorprenderá!",
+    "precio": 59,
+    "sabor": "Platano-Nueces",
+    "descuento": 5,
+    "imagen": "./../../public/imagenes/pasteles/pastel_platano.jpg",
+    "calificacion": 4.9
+  },
+  {
+    "id": 9,
+    "nombre": "Cheesecake de maracuyá",
+    "descripcion": "Tropical cheesecake con un sabor exótico a maracuyá. Base crujiente, relleno cremoso y un topping de maracuyá que te transportará al paraíso. ¡Una explosión de sabor en cada bocado",
+    "precio": 59,
+    "sabor": "Maracuya",
+    "descuento": 5,
+    "imagen": "./../../public/imagenes/pasteles/pastel_maracuya.jpg",
+    "calificacion": 4.9
+  }
+
+]

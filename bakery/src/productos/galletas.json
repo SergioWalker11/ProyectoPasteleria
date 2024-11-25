@@ -1,0 +1,68 @@
+[
+    {
+    "id": 21,
+    "nombre": "Macarons Surtidos",
+    "descripcion": "Delicados macarons franceses en seis sabores diferentes: chocolate, frambuesa, pistache, caramelo salado, lavanda y café. Elaborados con almendra finamente molida y rellenos con ganaches artesanales.",
+    "precio": 18,
+    "sabor": "Variado",
+    "descuento": 0,
+    "imagen": "./../../public/imagenes/galletas/galleta_surtida.avif",
+    "tipo": "macaron",
+    "calificacion": 4.7
+    },
+    {
+    "id": 22,
+    "nombre": "Galletas de Chocolate Chunk",
+    "descripcion": "Clásicas galletas americanas con trozos generosos de chocolate belga. Horneadas hasta lograr un exterior crujiente y un interior suave y húmedo. Con un toque de sal marina para realzar el sabor.",
+    "precio": 12,
+    "sabor": "Chocolate",
+    "descuento": 10,
+    "imagen": "./../../public/imagenes/galletas/galleta_chunk.jpg",
+    "tipo": "galleta",
+    "calificacion": 4.5
+    },
+    {
+    "id": 23,
+    "nombre": "Alfajores de Dulce de Leche",
+    "descripcion": "Tradicionales alfajores argentinos elaborados con delicada masa de maizena, rellenos generosamente con dulce de leche artesanal y rebozados en coco rallado. Presentados en una elegante caja.",
+    "precio": 15,
+    "sabor": "Dulce de Leche",
+    "descuento": 0,
+    "imagen": "./../../public/imagenes/galletas/galleta_dulceleche.jpg",
+    "tipo": "alfajor",
+    "calificacion": 4.8
+    },
+    {
+    "id": 24,
+    "nombre": "Galletas de Mantequilla Decoradas",
+    "descripcion": "Galletas artesanales de mantequilla francesa, decoradas a mano con glasa real en diseños únicos. Perfectas para eventos especiales o como regalo. Disponibles en diferentes temáticas.",
+    "precio": 20,
+    "sabor": "Mantequilla",
+    "descuento": 5,
+    "imagen": "./../../public/imagenes/galletas/galleta_mantequilla.jpg",
+    "tipo": "galleta",
+    "calificacion": 4.6
+    },
+    {
+    "id": 25,
+    "nombre": "Sablés de Almendra",
+    "descripcion": "Refinadas galletas francesas tipo sablé, elaboradas con almendras molidas y mantequilla de primera calidad. Con un delicado sabor a vainilla y un toque de ralladura de limón.",
+    "precio": 16,
+    "sabor": "Almendra",
+    "descuento": 0,
+    "imagen": "./../../public/imagenes/galletas/galleta_almendra.jpg",
+    "tipo": "galleta",
+    "calificacion": 4.4
+    },
+    {
+    "id": 26,
+    "nombre": "Galletas de Avena y Pasas",
+    "descripcion": "Saludables y deliciosas galletas elaboradas con avena integral, pasas jugosas y un toque de canela. Horneadas hasta lograr un exterior crujiente manteniendo un interior tierno.",
+    "precio": 14,
+    "sabor": "Avena",
+    "descuento": 15,
+    "imagen": "./../../public/imagenes/galletas/galleta_avena.jpg",
+    "tipo": "galleta",
+    "calificacion": 4.2
+    }
+    ]

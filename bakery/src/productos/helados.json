@@ -1,0 +1,29 @@
+[
+    {
+      "id": 10,
+      "nombre": "Helado de chocolate",
+      "descripcion": "Clásico helado de chocolate con trocitos de chocolate negro.",
+      "precio": 5.00,
+      "sabor": "Chocolate",
+      "descuento": 0,
+      "imagen": "./../../public/imagenes/helado1.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Helado de fresa",
+      "descripcion": "Helado de fresa con trozos de fruta fresca.",
+      "precio": 5.50,
+      "sabor": "Fresa",
+      "descuento": 10,
+      "imagen": "./../../public/imagenes/helado2.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Helado de vainilla",
+      "descripcion": "Cremoso helado de vainilla con un toque de vainilla Bourbon.",
+      "precio": 4.50,
+      "sabor": "Vainilla",
+      "descuento": 0,
+      "imagen": "./../../public/imagenes/helado3.jpg"
+    }
+  ]

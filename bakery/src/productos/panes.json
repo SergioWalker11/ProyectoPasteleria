@@ -1,0 +1,52 @@
+[
+  {
+    "id": 10,
+    "nombre": "Pan de molde integral",
+    "descripcion": "Pan de molde integral elaborado artesanalmente con una mezcla selecta de semillas de girasol y lino. Su textura suave y esponjosa lo hace perfecto para tostadas y sándwiches. Rico en fibra y nutrientes esenciales, es una opción saludable para el desayuno diario.",
+    "precio": 3.50,
+    "tipo": "Integral",
+    "descuento": 0,
+    "imagen": "./../../public/imagenes/panes/pan_integral.jpg",
+    "calificacion": 4.5
+  },
+  {
+    "id": 11,
+    "nombre": "Baguette",
+    "descripcion": "Auténtica baguette francesa elaborada según la tradición parisina. Su corteza dorada y crujiente esconde una miga blanca y aromática. Horneada dos veces al día para garantizar su frescura. Ideal para acompañar cualquier comida o crear deliciosos bocadillos.",
+    "precio": 2.00,
+    "tipo": "Blanco",
+    "descuento": 0,
+    "imagen": "./../../public/imagenes/panes/pan2.jpg",
+    "calificacion": 4.8
+  },
+  {
+    "id": 12,
+    "nombre": "Pan de centeno",
+    "descripcion": "Pan de centeno tradicional fermentado con masa madre durante 24 horas, lo que le confiere un sabor intenso y característico. Su alto contenido en fibra y bajo índice glucémico lo convierte en una opción nutritiva. Perfecto para dietas equilibradas y amantes del pan artesanal.",
+    "precio": 4.00,
+    "tipo": "Centeno",
+    "descuento": 5,
+    "imagen": "./../../public/imagenes/panes/pan3.jpg",
+    "calificacion": 4.3
+  },
+  {
+    "id": 13,
+    "nombre": "Chapata",
+    "descripcion": "Auténtica chapata italiana con una corteza crujiente y una miga alveolada característica. Elaborada con harina de trigo seleccionada y un largo proceso de fermentación que le otorga su sabor único. Perfecta para dipear en aceite de oliva o preparar paninis gourmet.",
+    "precio": 2.50,
+    "tipo": "Blanco",
+    "descuento": 0,
+    "imagen": "./../../public/imagenes/panes/pan4.jpg",
+    "calificacion": 4.6
+  },
+  {
+    "id": 14,
+    "nombre": "Croissant",
+    "descripcion": "Croissant artesanal elaborado con mantequilla francesa de primera calidad, siguiendo la receta tradicional. Sus múltiples capas hojaldradas crean una textura única y un sabor exquisito. Horneado cada mañana para garantizar la máxima frescura y ese aroma irresistible a mantequilla recién horneada.",
+    "precio": 1.80,
+    "tipo": "Bollería",
+    "descuento": 0,
+    "imagen": "./../../public/imagenes/panes/pan5.jpg",
+    "calificacion": 4.7
+  }
+]
